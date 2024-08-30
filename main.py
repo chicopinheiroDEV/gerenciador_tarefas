@@ -10,6 +10,9 @@ def listar_tarefas(lista_tarefas):
 
 def remover_tarefa(lista_tarefas, indice):
     """Remove uma tarefa da lista pelo índice."""
+
+print('Mudança de função')
+
     # Implementar a função aqui
 
 def main():
